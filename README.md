@@ -4,7 +4,7 @@ for the web-apps assignment
 ## Repository Links
 
 - [Source Repository](https://github.com/BenB049/about-me)
-- [Hosted Page]()
+- [Hosted Page](https://benb049.github.io/about-me/)
 
 ## About
 
@@ -30,4 +30,4 @@ Below are some resources that I find useful for web development.
 
 My name is Ben Brown and I am a senior at NWMSU studying computer science. Below is one of my favorite pictures I took during my vacation to Alaska this summer.
 
-[alaska pic](alaska-vacation-pic.jpeg)
+![alaska pic](alaska-vacation-pic.jpeg)
